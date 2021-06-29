@@ -1,0 +1,9 @@
+title : Saltware TechBlog
+description : Test num_01 saltBlog
+# baseurl 메인 상단 로고를 클릭 시 이동되는 url 링크로 현재 주소창 뒤에 /~~ 가 추가
+# baseurl : "/testTech_01"
+url : "https://cubit20.github.io/testTech_01"
+
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "light"
+search_enabled: false
