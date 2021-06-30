@@ -6,7 +6,7 @@ order : 18
 date: 2020-03-04
 ---
 
-![kmong](/assets/images/gitBlog/2020-03-04-CaseStudy-Refine-en/refine_01.jpg)http://www.refine.co.kr
+![kmong](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2020-03-04-CaseStudy-Refine-en/refine_01.jpg)http://www.refine.co.kr
 
 #### Customer : Refine
 
@@ -18,7 +18,7 @@ date: 2020-03-04
 - **Consider the development of Google's Firehose foundation for the first time, but propose an Amplify like AWS**
 - **Development and Optimization Based on Amplify, and Serverless-based service development requirements require access to MSA and DevOps, which lead to the project**
 
-![refine_architecture](/assets/images/gitBlog/2020-03-04-CaseStudy-Refine-en/refine_02.png)
+![refine_architecture](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2020-03-04-CaseStudy-Refine-ko/refine_02.png)
 
 ### How AWS services were used as part of the solution
 #### AWS Service Used

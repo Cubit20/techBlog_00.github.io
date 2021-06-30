@@ -6,7 +6,7 @@ order : 9
 date: 2017-07-20
 ---
 
-![miraeasset](/assets/images/gitBlog/2018-03-30-CaseStudy-miraeasset-ko/CaseStudy-miraeasset-ko_01.jpg)https://investments.miraeasset.com
+![miraeasset](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2018-03-30-CaseStudy-miraeasset-ko/CaseStudy-miraeasset-ko_01.jpg)https://investments.miraeasset.com
 
 #### Customer : 미래에셋자산운용 ( Mirae Asset Global Investment ) 
 
@@ -33,7 +33,9 @@ AWS 고객사례 : https://aws.amazon.com/ko/solutions/case-studies/miraeasset/
 
 
 ### 모니터링
-![mirae_monitoring](/assets/images/gitBlog/2018-03-30-CaseStudy-miraeasset-ko/CaseStudy-miraeasset-ko_02.jpg)
+
+![mirae_monitoring](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2018-03-30-CaseStudy-miraeasset-ko/CaseStudy-miraeasset-ko_02.jpg)
+
 - 솔트웨어(as fitCloud)에서 제공하는 AWS 모니터링 서비스
 - CPU, Memory, Disk, Traffic 등 서버 성능 모니터링
 - CloudWatch 연동을 통한 다차원적인 리소스 분석
@@ -42,7 +44,9 @@ AWS 고객사례 : https://aws.amazon.com/ko/solutions/case-studies/miraeasset/
 
 
 ### 온프레미스 vs AWS TCO 비교
-![mirae_tco](/assets/images/gitBlog/2018-03-30-CaseStudy-miraeasset-ko/CaseStudy-miraeasset-ko_03.jpg)
+
+![mirae_tco](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2018-03-30-CaseStudy-miraeasset-ko/CaseStudy-miraeasset-ko_03.jpg)
+
 - TCO 분석을 통해 약 91%의 비용 절감이 가능하다는 AWS TCO Calculator 결과를 얻을수 있었습니다.
 - Tokyo Region과 Singapore Region에서 분석
 - 3년에 대한 TCO분석 결과 이며, 실제 서울 Region의 On-premiss의 서버 가격에는 차이가 있으나, 실제 데이터센터 운영인력 및 전기료 기타 시설료를 합산하면 해당 결과 값 만큼의 할인율을 도출할 수 있었습니다.

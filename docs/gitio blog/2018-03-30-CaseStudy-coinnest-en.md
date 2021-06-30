@@ -6,7 +6,7 @@ order : 6
 date: 2018-03-30
 ---
 
-![coinnest_logo](/assets/images/gitBlog/2018-03-30-CaseStudy-coinnest-en/CaseStudy_coinnest-en_01.png)
+![coinnest_logo](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2018-03-30-CaseStudy-coinnest-en/CaseStudy_coinnest-en_01.png)
 
 #### Customer : Coinnest
 
@@ -34,8 +34,8 @@ date: 2018-03-30
 
 
 ### Monitoring
-![quickview](/assets/images/gitBlog/2018-03-30-CaseStudy-coinnest-en/CaseStudy_coinnest-en_02.png)
 
+![quickview](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2018-03-30-CaseStudy-coinnest-en/CaseStudy_coinnest-en_02.png)
 
 - Saltware(as fitCloud) provide monitoring service
 - Provide Real time monitoring for AWS resources.
@@ -47,7 +47,9 @@ date: 2018-03-30
 
 
 ### On-premise vs AWS TCO compare
-![coinnest_tco](/assets/images/gitBlog/2018-03-30-CaseStudy-coinnest-en/CaseStudy_coinnest-en_03.png)
+
+![coinnest_tco](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2018-03-30-CaseStudy-coinnest-ko/CaseStudy_coinnest-en_03.png)
+
 - Through TCO analyzation, we achieved AWS TCO Calculator result indicating possible 32% cost reduction.
 - The comparison was done with 10 On-premise based servers. More discount rates can be expected at actual implementation using 5 servers that can extend into maximum 10 servers with AutoScaling.
 - TCO analyzation was done in Tokyo Region which is most adjacent to Seoul Region.

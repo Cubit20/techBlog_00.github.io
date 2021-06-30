@@ -12,12 +12,12 @@ date: 2019-05-20
 AWS의 Solution Architector(이하 SA) 들이 워크로드 검토를 수행 하는 것을 이제는 Saltware의 전문 SA 들이 함께 수행을 합니다.
 저희 Saltware SA들이 Customer들의 AS-IS 시스템에 대한 Architecture 및 Workload를 분석하여 AWS Best Practice 및 common Guide를 전달하고 AWS를 보다더 잘 활용 할 수 있게 도움을 드리는 프로그램입니다. 솔트웨어는 AWS의 공인된 Well Architected Partner 입니다.
 
-![AWS Well-Architected Partner Program Certificate](/assets/images/gitBlog/2019-05-20-Well-Architected-Review/well-Architected-Review_01.png)
+![WAR_01](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2019-05-20-Well-Architected-Review/well-Architected-Review_01.png)
 
 Well Architected 프로그램은 아래 5개 Pillar를 중심으로 아키텍처를 검토 및 개선 합니다.
 
 ### Well-Architected 5 pillar
-![WAR_02](/assets/images/gitBlog/2019-05-20-Well-Architected-Review/well-Architected-Review_02.jpg) 
+![WAR_02](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2019-05-20-Well-Architected-Review/well-Architected-Review_02.jpg)
 
 ## WAR Review 진행 절차
 
@@ -33,28 +33,28 @@ AWS Well-Architected Tool은 워크로드 상태를 검토하고 AWS 아키텍�
 ## Well Architected Tool 사용 방법
 
 - I open the AWS Well-Architected Tool Console and click Define workload to get started:
-![WAR03](/assets/images/gitBlog/2019-05-20-Well-Architected-Review/well-Architected-Review_03.jpg)
+![WAR_03](./assets/imgase/gitBlog/../../../../../assets/images/gitBlog/2019-05-20-Well-Architected-Review/well-Architected-Review_03.jpg)
 
 - begin by naming and defining my workload. I choose an industry type and an industry, list the regions where I operate, indicate if this is a pre-production or production workload, and optionally enter a list of AWS account IDs to define the span of the workload. Then I click Define workload to move ahead:
-![WAR04](/assets/images/gitBlog/2019-05-20-Well-Architected-Review/well-Architected-Review_04.jpg)
+![WAR_04](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2019-05-20-Well-Architected-Review/well-Architected-Review_04.jpg)
 
 - I am ready to get started, so I click Start review:
-![WAR05](/assets/images/gitBlog/2019-05-20-Well-Architected-Review/well-Architected-Review_05.jpg)
+![WAR_05](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2019-05-20-Well-Architected-Review/well-Architected-Review_05.jpg)
 
 - The first pillar is Operational Excellence. There are nine questions, each with multiple-choice answers. Helpful resources are displayed on the side:
-![WAR06](/assets/images/gitBlog/2019-05-20-Well-Architected-Review/well-Architected-Review_06.jpg)
+![WAR_06](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2019-05-20-Well-Architected-Review/well-Architected-Review_06.jpg)
 
 - I can go through the pillars and questions in order, save and exit, and so forth. After I complete my review, I can consult the improvement plan for my workload:
-![WAR07](/assets/images/gitBlog/2019-05-20-Well-Architected-Review/well-Architected-Review_07.jpg)
+![WAR_07](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2019-05-20-Well-Architected-Review/well-Architected-Review_07.jpg)
 
 - I can generate a detailed PDF report that summarizes my answers:
-![WAR08](/assets/images/gitBlog/2019-05-20-Well-Architected-Review/well-Architected-Review_08.jpg)
+![WAR_08](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2019-05-20-Well-Architected-Review/well-Architected-Review_08.jpg)
 
-- I can review my list of workloads: <br/>
-![WAR09](/assets/images/gitBlog/2019-05-20-Well-Architected-Review/well-Architected-Review_09.jpg)
+- I can review my list of workloads:
+![WAR_09](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2019-05-20-Well-Architected-Review/well-Architected-Review_09.jpg)
 
 - And I can see the overall status in the dashboard:
-![WAR10](/assets/images/gitBlog/2019-05-20-Well-Architected-Review/well-Architected-Review_10.jpg)
+![WAR_10](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2019-05-20-Well-Architected-Review/well-Architected-Review_10.jpg)
 
 Well Architected Tool 사용법은 AWS Blog에서 발췌 하였으며, 참고 원문 URL은 아래와 같습니다.
 https://aws.amazon.com/ko/blogs/aws/new-aws-well-architected-tool-review-workloads-against-best-practices/

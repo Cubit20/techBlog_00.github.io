@@ -6,7 +6,7 @@ order : 6
 date: 2020-03-25
 ---
 
-![그림1](/assets/images/mediumBlog/20.03.25-lambdaXray/lambdaXray_01.jpg)
+![lambdaXray_01](./assets/images/mediumBlog/../../../../../assets/images/mediumBlog/20.03.25-lambdaXray/lambdaXray_01.jpg)
 
 AWS Lambda는 서버없이(Serverless) 애플리케이션 코드를 실행할 수 있어서 Microservice Architecture을 구성하거나, AWS의 여러 서비스들과 연계해서 Event-driven Architecture를 구현할 때 많이 사용되는데요.
 
@@ -22,7 +22,7 @@ API Gateway + Lambda + DynamoDB로 DynamoDB 테이블을 스캔하는 API를 만
 2. DynamoDB Dashboard 에서 [Create table] 클릭 → Table name = x-ray-demo, Primary key = id, Use default settings = ✅ → [Create]
 3. [Create item]으로 몇개의 아이템을 생성합니다.
 
-![그림2](/assets/images/mediumBlog/20.03.25-lambdaXray/lambdaXray-02.png)
+![lambdaXray_02](./assets/images/mediumBlog/../../../../../assets/images/mediumBlog/20.03.25-lambdaXray/lambdaXray-02.png)
 
 ***
 
@@ -88,13 +88,13 @@ API Gateway + Lambda + DynamoDB로 DynamoDB 테이블을 스캔하는 API를 만
 
 이제 X-Ray tracing을 켜보겠습니다. Lambda 설정창에서 Active tracing을 활성화하고 [Save]
 
-![그림3](/assets/images/mediumBlog/20.03.25-lambdaXray/lambdaXray-03.png)
+![lambdaXray_03](./assets/images/mediumBlog/../../../../../assets/images/mediumBlog/20.03.25-lambdaXray/lambdaXray-03.png)
 
 API Endpoint로 여러번 접속한 다음에 [View traces in X-Ray]를 통해서 X-Ray Dashboard로 이동해서 Service Map하고 Traces를 확인합니다.
-   
-![그림4](/assets/images/mediumblog/20.03.25-lambdaXray/lambdaXray-04.png)
 
-![그림5](/assets/images/mediumBlog/20.03.25-lambdaXray/lambdaXray-05.png)
+![lambdaXray_04](./assets/images/mediumBlog/../../../../../assets/images/mediumBlog/20.03.25-lambdaXray/lambdaXray-04.png)
+
+![lambdaXray_05](./assets/images/mediumBlog/../../../../../assets/images/mediumBlog/20.03.25-lambdaXray/lambdaXray-05.png)
 
 음... DynamoDB에 대한 정보는 따로 보여지지 않습니다. Lambda에서 기본적으로 제공하는 X-Ray Tracing은 해당 Lambda에 대한 정보만 보여지므로 소스코드에 X-Ray Tracing 부분을 설정해줘야 합니다.
 
@@ -122,7 +122,7 @@ AWS X-Ray SDK for Node.js가 필요한데요. Lambda Layer를 통해서 구현�
 
     이제 API Endpoint를 몇번 호출하고 X-Ray Dashboard로 가서 변경된 사항을 확인해봅니다.
 
-    ![그림6](/assets/images/mediumBlog/20.03.25-lambdaXray/lambdaXray-06.png)
+    ![lambdaXray_06](./assets/images/../../../../assets/images/mediumBlog/20.03.25-lambdaXray/lambdaXray-06.png)
 
     이번에는 DynamoDB 부분에 대한 내용도 상세하게 확인할 수 있습니다. 만약에 MySQL 데이터베이스를 사용한다면 아래와 같이 mysql 클라이언트를 정의하고 DB에 연결할 경우에 Query에 대한 Tracing도 가능합니다.
 

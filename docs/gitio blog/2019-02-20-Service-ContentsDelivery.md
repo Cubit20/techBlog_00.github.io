@@ -18,7 +18,8 @@ CDN 이라고 불리우는 콘텐트 전송 네트워크 ( Contents Delivery Net
 ><br> AWS 오리진 데이터 전송 비용 무료
 
 Amazon CloudFront는 전세계의 AWS 백본망과 전용 고속 엣지 로케이션을 통하여 콘텐츠를 빠르고 안전하게 전송하는 CDN 서비스입니다.
-![AmazonCF](/assets/images/gitBlog/2019-02-20-Service-ContentsDelivery/Service-ContentsDelivery_01.png)
+
+![AmazonCF](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2019-02-20-Service-ContentsDelivery/Service-ContentsDelivery_01.png)
 
 - 빠른 속도와 글로벌한 규모
 - 엣지보안
@@ -30,7 +31,7 @@ Amazon CloudFront는 전세계의 AWS 백본망과 전용 고속 엣지 로케�
 ### Amazon CloudFront 의 장점
 Amazon CloudFront를 사용한다면 빠르고 안전한 콘텐츠 전송 뿐만 아니라, 높아지는 클라우드상의 데이터 전송 비용도 절감 할 수 있습니다.
 
-![image](/assets/images/gitBlog/2019-02-20-Service-ContentsDelivery/Service-ContentsDelivery_02.png)
+![image](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2019-02-20-Service-ContentsDelivery/Service-ContentsDelivery_02.png)
 
 - Super POP Architecture : AWS 클라우드 구축 / 운영 Know-How가 담긴 고성능/대용량 아키텍처
 - 한국내 최대 Capacity / 가장 빠르게 성장하는 글로벌 CDN 서비스
@@ -41,7 +42,9 @@ Amazon CloudFront를 사용한다면 빠르고 안전한 콘텐츠 전송 뿐만
 
 
 ### AWS의 EC2와 S3 사용시 오리진 전송비용 무료
-![cf-cost](/assets/images/gitBlog/2019-02-20-Service-ContentsDelivery/Service-ContentsDelivery_03.png)
+
+![cf-cost](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2019-02-20-Service-ContentsDelivery/Service-ContentsDelivery_03.png)
+
 
 1. CloudFront를 사용하실 경우 Default로 AWS 오리진(EC2, ELB, S3) Data-Out 비용이 면제 됩니다.
 2. CloudFront는 캐싱은 물론 미디어 전송, API와 같은 동적 콘텐츠 가속, HTTPS 등을 동일 가격 체계로 제공하여 기존 CDN 대비 월등히 가성비 높은 서비스를 제공합니다.
@@ -69,4 +72,3 @@ AWS의 대표적인 서비스인 Amazon EC2 와 Amazon S3 를 Amazon CloudFront 
 #### AWS CloudFront 서비스 관련 문의 : 
 
 >정태경 팀장 / aws.sales@saltware.co.kr / 02-2025-4933
-

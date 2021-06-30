@@ -6,7 +6,7 @@ order : 3
 date: 2017-08-10
 ---
 
-![miraeasset](/assets/images/gitBlog/2017-08-10-CaseStudy-MiraeAsset/CaseStudy-MiraeAsset_01.jpg)https://investments.miraeasset.com
+![miraeasset](./aasets/images/gitBlog/../../../../../assets/images/gitBlog/2017-08-10-CaseStudy-MiraeAsset/CaseStudy-MiraeAsset_01.jpg)https://investments/miraeasset.com
 
 #### Customer : 미래에셋자산운용 ( Mirae Asset Global Investment ) 
 

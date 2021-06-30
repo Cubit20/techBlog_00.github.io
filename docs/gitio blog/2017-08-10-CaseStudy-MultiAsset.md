@@ -6,7 +6,7 @@ order : 4
 date: 2017-08-10
 ---
 
-![multiasset](/assets/images/gitBlog/2017-08-10-CaseStudy-MultiAsset/CaseStudy-MultiAsset_01.jpg)http://multiasset.miraeasset.co.kr
+![multiasset](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2017-08-10-CaseStudy-MultiAsset/CaseStudy-MultiAsset_01.jpg)http://multiasset.miraeasset.co.kr
 
 #### Customer : 멀티에셋자산운용 ( Multi Asset Global Investment )
 >MSP서비스를 통한 관리 비용 절감과 효율성 증대

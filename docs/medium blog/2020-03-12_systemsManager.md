@@ -6,7 +6,7 @@ order : 3
 date: 2020-03-12
 ---
 
-![그림1](/assets/images/mediumBlog/20.03.12-systemsManager/systemsManager_01.jpeg)
+![systemsManager](./assets/images/mediumBLog/../../../../../assets/images/mediumBlog/20.03.12-systemsManager/systemsManager_01.jpeg)
 
 개발을 하다 보면 Database Credentails, API Key, Secret Key 같이 외부에 노출될 경우 보안적 문제가 발생할 수 있는 요소들을 다루게 되는 경우가 다반사입니다.
 

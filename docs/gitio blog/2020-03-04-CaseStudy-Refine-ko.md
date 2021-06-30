@@ -6,7 +6,7 @@ order : 19
 date: 2020-03-04
 ---
 
-![kmong](/assets/images/gitBlog/2020-03-04-CaseStudy-Refine-ko/refine_01.jpg)http://www.refine.co.kr
+![kmong](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2020-03-04-CaseStudy-Refine-ko/refine_01.jpg)
 
 #### Customer : 리파인 ( Refine )
 
@@ -18,7 +18,7 @@ date: 2020-03-04
 - 최초 구글의 Firehose 기반의 개발을 고려하였으나, AWS와 같이 Amplify를 제안함
 - Amplify 기반의 개발과 최적화, 그리고 Serverless 기반의 서비스 개발의 요건에 따라 MSA 및 DevOps로의 접근 필요하여 프로젝트로 진행하게 됨
 
-![refine-architecture](/assets/images/gitBlog/2020-03-04-CaseStudy-Refine-ko/refine_02.png)
+![refine-architecture](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2020-03-04-CaseStudy-Refine-ko/refine_02.png)
 
 ### How AWS services were used as part of the solution
 #### 사용된 AWS Service

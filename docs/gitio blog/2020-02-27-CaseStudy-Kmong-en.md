@@ -6,7 +6,7 @@ order : 16
 date: 2020-02-27
 ---
 
-![kmong](/assets/images/gitBlog/2020-02-27-CaseStudy-Kmong-en/kmong_01.png)https://www.kmong.com
+![kmong](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2020-02-27-CaseStudy-Kmong-en/kmong_01.png)https://www.kmong.com
 
 #### Customer : Kmong
 
@@ -30,10 +30,9 @@ date: 2020-02-27
  - Log Integrated Monitoring Service Using ElasticSearch Service
 
 
-![kmong_architecture-1](/assets/images/gitBlog/2020-02-27-CaseStudy-Kmong-en/kmong_02.png)
+![kmong_architecture-1](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2020-02-27-CaseStudy-Kmong-en/kmong_02.png)
 
-![kmong_architecture-2](/assets/images/gitBlog/2020-02-27-CaseStudy-Kmong-en/kmong_03.png)
-
+![kmong_architecture-2](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2020-02-27-CaseStudy-Kmong-ko/kmong_03.png)
 
 #### Agile methodology
  - Through the project, which is performed in accordance with the Agile methodology for future usage, Kmong’s engineers can use the Agile methodology in the future as well.

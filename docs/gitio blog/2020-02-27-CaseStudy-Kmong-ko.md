@@ -6,7 +6,7 @@ order : 17
 date: 2020-02-27
 ---
 
-![kmong](/assets/images/gitBlog/2020-02-27-CaseStudy-Kmong-ko/kmong_01.png)https://www.kmong.com
+![kmong](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2020-02-27-CaseStudy-Kmong-ko/kmong_01.png)https://www.kmong.com
 
 #### Customer : 크몽 ( Kmong )
 
@@ -29,9 +29,9 @@ date: 2020-02-27
  - ElasticSearch 서비스를 이용한 Log 통합 모니터링 서비스 진행
 
 
-![kmong_architecture-1](/assets/images/gitBlog/2020-02-27-CaseStudy-Kmong-ko/kmong_02.png)
+![kmong_architecture-1](./aasets/images/gitBlog/../../../../../assets/images/gitBlog/2020-02-27-CaseStudy-Kmong-ko/kmong_02.png)
 
-![kmong_architecture-2](/assets/images/gitBlog/2020-02-27-CaseStudy-Kmong-ko/kmong_03.png)
+![kmong_architecture-2](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2020-02-27-CaseStudy-Kmong-ko/kmong_03.png)
 
 
 #### Agile 개발 방법론

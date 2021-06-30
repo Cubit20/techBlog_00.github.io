@@ -6,7 +6,7 @@ order : 5
 date: 2020-03-25
 ---
 
-![그림1](/assets/images/mediumBlog/20.03.25-cloudWatchAPI/cloudWatchAPI_01.jpg)
+![cloudWatch_01](./assets/images/mediumBlog/../../../../../assets/images/mediumBlog/20.03.25-cloudWatchAPI/cloudWatchAPI_01.jpg)
 
 AWS CloudTrail는 AWS 계정 내에서 수행된 작업들의 API 로그를 기록하고 저장해서 “누가”, “언제", “어떤" 작업을 했는지 확인하고 수집된 로그들을 토대로 보안 분석, 운영 감사, 규정 위반 감사, 비정상적 활동 탐지등을 손쉽게 할수 있는 서비스입니다.
 
@@ -63,7 +63,7 @@ SNS 토픽생성
 3. [Create subscription] → Protocol = Email, Endpoint = 알림 받을 이메일 주소 입력 → [Create subscription]
 4. 위에서 입력한 이메일로 전송된 인증메일에서 Confirm subscription 클릭   
 
-![그림2](/assets/images/mediumBlog/20.03.25-cloudWatchAPI/cloudWatchAPI_02.png)
+![cloudWatch_02](./assets/images/mediumBlog/../../../../../assets/images/mediumBlog/20.03.25-cloudWatchAPI/cloudWatchAPI_02.png)
 
 CloudWatch Events Rule 생성
 

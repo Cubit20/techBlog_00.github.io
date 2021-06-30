@@ -12,7 +12,7 @@ date: 2018-08-27
 클라우드 서비스는 사용자가 쉽고 빠르게 원하는 서비스를 시작할 수 있는 유연성 측면에서 큰 가치를 가지고 있습니다.
 하지만, 관리적인 측면에서 예상치 못한 클라우드 비용으로 인하여 문제가 발생하는 경우가 있습니다.
 
-![cost](/assets/images/gitBlog/2018-08-27-proactive-cost/proactive-cost_01.jpg)
+![cost](./assets/images/gitBlog/../../../../../assets/images/gitBlog/2018-08-27-proactive-cost/proactive-cost_01.jpg)
 
 #### 대량의 비용이 발생하는 경우
 - DDoS 의 공격으로 인하여 대량의 네트워크 비용이 발생하는 경우
